@@ -1,0 +1,34 @@
+structure
+
+pointers
+
+bool
+
+const int* const 
+
+int *const
+
+new
+
+delete
+
+class POLBILL *obj1 = new POLBILL;
+
+void set_vehicle(){
+vehicle = new string;
+}	
+void set_fuelcon(){
+fuelcon = new int;
+}
+
+static data member & function
+
+b:p e, p atm	multiplr inheritance
+
+FRIND CLASS & FRIEND FUNCTION 
+
+Nested Class 
+
+enum
+
+typedef unsigned int p_int; 
